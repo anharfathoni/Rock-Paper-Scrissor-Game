@@ -185,6 +185,8 @@ button:hover {
 
 /* Tablet Landscape */
 
+
+/* 
 @media screen and (max-width: 1060px) {
     #primary {
         width: 67%;
@@ -193,11 +195,13 @@ button:hover {
         width: 30%;
         margin-left: 3%;
     }
-}
+} */
 
 
 /* Tabled Portrait */
 
+
+/* 
 @media screen and (max-width: 768px) {
     #primary {
         width: 100%;
@@ -223,4 +227,4 @@ button:hover {
 
 img {
     max-width: 100%;
-}
+} */
